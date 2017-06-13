@@ -6,7 +6,7 @@
 <head runat="server">
     <title>Cafeteria Check In</title>
     <script type="text/javascript">
-        //test
+       
         //Function to create textbox based on regular expressions
         function AcceptRegExOnly(event, regex) {
             var keyCode = event.which ? event.which : event.keyCode;
