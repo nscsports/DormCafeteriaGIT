@@ -50,11 +50,11 @@ public partial class _Default : System.Web.UI.Page
             {
                 StaffTypeID = 1;
             }
-            else if (WristbandID <= 2999) // REFS range
+            else if (WristbandID <= 2999) // MEDICAL range
             {
                 StaffTypeID = 2;
             }
-            else if (WristbandID <= 3999) // MEDICAL range
+            else if (WristbandID <= 3999) // REFS range
             {
                 StaffTypeID = 3;
             }
